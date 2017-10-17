@@ -4,6 +4,7 @@ description: Website d'esqueixada, un projecte obert amb la missió de difondre 
 repository: Esqueixada/web
 exclude: [docker-compose.yml]
 github: [metadata]
+url: https://esqueixada.github.io/web
 plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "/blog/page:num/"
